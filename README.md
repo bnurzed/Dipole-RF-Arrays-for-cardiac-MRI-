@@ -7,6 +7,7 @@ For the 7.0 T baseline setup a 32-channel parallel transmission (pTx)/Rx SGBT ar
 Numerical EMF simulations of the RF arrays were performed using the finite difference time domain solver of CST Studio Suite 2020 (CST Studio Suite 2020, Dassault Systèmes, Vélizy-Villacoublay Cedex, France). Broad-band excitation (bandwidth: fex=± 50.0 MHz) was applied for a center frequency of fex =297.2 MHz and fex=600 MHz. The human voxel models Duke (body mass index [BMI]=23.1 kg/m2) and Ella (BMI=22.7 kg/m2) of the Virtual Family (resolution: 1.0x1.0x1.0 mm³) were used [4]. Duke and Ella were truncated at the neck and the hips and placed at the isocenter of an RF shield model of the 7.0 T and 14.0 T MRI bore. For the EMF simulations, the electrical material parameters of the antennas and the tissue parameters provided by the IT‘IS Foundation [5] were adapted to 297.2 MHz and 600 MHz conditions. 
 
 
+REFERENCES
 [1] Eigentler TW, Kuehne A, Boehmert L, Dietrich S, Els A, Waiczies H, Niendorf T (2021) 32-Channel self-grounded bow-tie transceiver array for cardiac MR at 7.0T. Magn Reson Med 86 (5):2862-2879.
 [2] Oezerdem C, Winter L, Graessl A, Paul K, Els A, Weinberger O, Rieger J, Kuehne A, Dieringer M, Hezel F, Voit D, Frahm J, Niendorf T (2016) 16-channel bow tie antenna transceiver array for cardiac MR at 7.0 tesla. Magn Reson Med 75 (6):2553-2565.
 [3] Raaijmakers AJE, Italiaander M, Voogt IJ, Luijten PR, Hoogduin JM, Klomp DWJ, Van Den Berg CAT (2016) The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla. Magn Reson Med 75 (3):1366-1374.
