@@ -1,4 +1,4 @@
-# Dipole-RF-Arrays-for-cardiac-MRI-
+# Dipole-RF-Arrays-for-cardiac-MRI
 
 Dipole RF Arrays for cardiac MRI at 7.0T (297.2MHz) and 14.0T (600MHz). RF arrays using self-grounded bow-tie (SGBT) antenna building blocks [1], bow-tie (BT) antenna building blocks [2], and fractionated dipole (FD) antennas [3] placed on the human voxel model Duke and Ella [4]. The SGBT has a size of 24.3x48.0x89.3 mm³ at 7.0 T and 12.2x24.0x44.7 mm³ at 14.0 T. For each SGBT a parallel capacitor and a serial inductor were used for tuning and matching. The BT uses a size of 53.0x76.0x156.0 mm³ at 7.0 T and 26.5x38.0x78.0 mm³ at 14.0 T. The tuning and matching circuit consist of a serial and a parallel capacitor. The FD consists of a dipole antenna (7.0 T: 304.0x10.0x1.6 mm³, 14.0 T: 152.0x5.0x0.8 mm³), where low loss optimized meander elements are modeled as lumped elements (7.0 T: L = 33.5 nH, Q = 258.2 at 7.0 T, 14.0 T: L = 17.9 nH, Q = 88.0) between the three segments of the antenna legs.
 
