@@ -8,6 +8,7 @@ Numerical EMF simulations of the RF arrays were performed using the finite diffe
 
 
 REFERENCES
+
 [1] Eigentler TW, Kuehne A, Boehmert L, Dietrich S, Els A, Waiczies H, Niendorf T (2021) 32-Channel self-grounded bow-tie transceiver array for cardiac MR at 7.0T. Magn Reson Med 86 (5):2862-2879.
 [2] Oezerdem C, Winter L, Graessl A, Paul K, Els A, Weinberger O, Rieger J, Kuehne A, Dieringer M, Hezel F, Voit D, Frahm J, Niendorf T (2016) 16-channel bow tie antenna transceiver array for cardiac MR at 7.0 tesla. Magn Reson Med 75 (6):2553-2565.
 [3] Raaijmakers AJE, Italiaander M, Voogt IJ, Luijten PR, Hoogduin JM, Klomp DWJ, Van Den Berg CAT (2016) The fractionated dipole antenna: A new antenna for body imaging at 7 Tesla. Magn Reson Med 75 (3):1366-1374.
